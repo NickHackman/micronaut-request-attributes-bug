@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: exampleRequestAttributeBug
+  http:
+    services:
+      example-client:
+        url: https://example.com
